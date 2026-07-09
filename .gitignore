@@ -1,0 +1,8 @@
+missions/.DS_Store
+.DS_Store
+*.json
+*.db
+*.csv
+.claude/
+.claude
+
